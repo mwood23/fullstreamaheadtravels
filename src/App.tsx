@@ -5,13 +5,14 @@ import ReactMapGL, {
   Layer,
   Marker,
   Source,
-  FlyToInterpolator,
 } from "react-map-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import lineStringJsonImport from "./line-string.json";
 import destinationsJson from "./destinations.json";
 import travelBuddies from "./travel-buddies.png";
-import { useMeasure, useInterval, useThrottleFn } from "react-use";
+import useMeasure from "react-use/esm/useMeasure";
+import useInterval from "react-use/esm/useInterval";
+import useThrottleFn from "react-use/esm/useThrottleFn";
 import { useSpring, useTransition, a, config } from "@react-spring/web";
 import {
   SPEED_COEFFICIENT,

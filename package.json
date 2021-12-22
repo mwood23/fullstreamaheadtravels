@@ -11,12 +11,14 @@
     "@react-spring/web": "^9.3.1",
     "deck.gl": "^8.6.5",
     "geolib": "^3.3.3",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-map-gl": "^6.1.18",
     "react-use": "^17.3.1"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.178",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@tmcw/togeojson": "^4.5.0",
