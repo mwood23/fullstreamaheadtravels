@@ -1,0 +1,1826 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2733346,
+          44.3385559,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Acadia National Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3396912,
+          43.8553804,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Badlands National Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.588455,
+          44.427963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone National Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7870225,
+          48.7596128,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glacier National Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0188974,
+          37.8776175,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New River Gorge National Park and Preserve",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4590667,
+          43.8791025,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mount Rushmore National Memorial",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6817627,
+          43.7904282,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grand Teton National Park",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0069954,
+          34.7530544,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dead Horse Lagoon",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Off roading",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1443187,
+          43.0848874,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sugar Shack",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Maple syrup",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.034448,
+          45.6791443,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blackbird",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "9.3",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7997071,
+          34.8631086,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pisa Lisa",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "9.2",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6316058,
+          43.5335786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Honey House",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Wyoming honey",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7537316,
+          39.0003838,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arcadian Moon",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.0",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7795088,
+          43.4712565,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teton County Library",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Super fast internet",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1780929,
+          47.986745,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hockaday Orchards",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Cherry picking",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0360541,
+          40.2253008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brecknock Orchard",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Yellow raspberries",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.081125,
+          33.4604476,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cracker Barrel",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "First Cracker Barrel",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0037236,
+          43.754766,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brooks Lake",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Alpine lake dronage",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5692526,
+          45.6119696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Red Mountain Campground",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Madison River biking and paddleboarding",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9255736,
+          48.5831721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake McDonald",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Paddleboard sunset + hail storm",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7489558,
+          48.6815786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hidden Lake",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Random hike!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6737376,
+          39.8560963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Denver International Airport",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Airstream adventures",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2435992,
+          44.3994434,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Witch Hole Pond",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Bike ride!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0713984,
+          43.2552855,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dope Road Pic",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Wind river vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3128285,
+          41.4901024,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Newport",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Yacht vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0629266,
+          43.3074765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake Solitude",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Rainy autumn hike",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8490426,
+          34.9076786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Boynton Canyon Trail",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Nature walks",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8287813,
+          41.4651246,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Doe's and Diva's Dairy, Inc.",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Illegal Cheese",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4182455,
+          43.8955436,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Keystone",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Second bike!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.004605,
+          36.2081717,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Osage Casino",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Revivalists",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2158813,
+          42.9037666,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bennington Cinemas",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Movie night",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.996567,
+          48.481629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glacier Campground",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Tree trouble",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0988786,
+          41.2458418,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brother Sebastian's Steakhouse",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Monk Steaks 7.9",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7651984,
+          44.3522065,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lead",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "July 4th",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3263609,
+          42.847895,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Metro Coffee Company",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Quirky coffee",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0664501,
+          45.7094654,
+          0
+        ]
+      },
+      "properties": {
+        "name": "RadioShack of Bozeman",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Solving the internet",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3544707,
+          43.4107055,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake Day",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Lake Vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4655541,
+          40.9129573,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Twisted Olive",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.6",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2075993,
+          36.6356524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pickle & Ash",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.7",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5263529,
+          41.3863608,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Matunuck Oyster Bar",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.5",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.352689,
+          44.2391987,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Thurston's Lobster Pound",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.3",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3003347,
+          35.4700203,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harrah's Cherokee Casino",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Casino Weekend",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5158062,
+          39.1118421,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pepp & Dolores",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "9.3",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3272052,
+          39.7009378,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Walmart Supercenter",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Walmart Date Night",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9256988,
+          33.5795946,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dairy Queen",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "DQ redemption",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0791631,
+          33.4484874,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arizona Federal Theatre",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Tosh",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8743039,
+          33.6287872,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westworld Campground",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Fantastic fan mishap",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7627187,
+          43.4793758,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pizzeria Caldera",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "4.4",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0727705,
+          43.747962,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Backroad",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Off road adventures",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3972,
+          47.0915163,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salmon Lake State Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Kamikaze drone",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.066214,
+          47.505167,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Silver Knot",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Wine and truck jump pics",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9310333,
+          33.4932262,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pizzería Virtu",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.3",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3400802,
+          42.8640708,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gruner Brothers Brewing",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "7.7",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6897336,
+          37.6985428,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James River",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Paddleboard floats",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5976589,
+          41.436221,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arrowhead Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "String lights + mosquitos = terror",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1883982,
+          43.5950082,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake Vermillion State Recreation Area",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "What a sunset!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6179941,
+          43.5265674,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Friday Night Rodeo",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8137748,
+          48.6764615,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Avalanche Trail",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6545789,
+          48.6787003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Going to the Sun Road",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Mirror tucking!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8281376,
+          44.4604788,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Faithful",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Gotta see it!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.406377,
+          44.530393,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dairy Queen",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "DQ Failure",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    }
+  ]
+}

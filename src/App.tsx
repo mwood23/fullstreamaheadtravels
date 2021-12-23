@@ -9,6 +9,7 @@ import ReactMapGL, {
 import "mapbox-gl/dist/mapbox-gl.css";
 import lineStringJsonImport from "./line-string.json";
 import destinationsJson from "./destinations.json";
+import momentsJson from "./moments.json";
 import travelBuddies from "./travel-buddies.png";
 import useMeasure from "react-use/esm/useMeasure";
 import useInterval from "react-use/esm/useInterval";
@@ -28,13 +29,16 @@ import { uniqBy } from "lodash";
 
 const lineStringJson = lineStringJsonImport as any;
 
-const FEATURES = destinationsJson.features.map((f, i) => ({
-  ...f,
-  properties: {
-    ...f.properties,
-    stopNumber: i + 1,
-  },
-}));
+const destinations = {
+  type: "FeatureCollection",
+  features: destinationsJson.features.map((f, i) => ({
+    ...f,
+    properties: {
+      ...f.properties,
+      stopNumber: i + 1,
+    },
+  })),
+};
 
 const totalNumberOfCoordinatesOnPath =
   lineStringJson.features[0].geometry.coordinates.length;
@@ -151,7 +155,7 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
   const lineLayer = useMemo(
     () => (
       // @ts-ignore
-      <Source id="polylineLayer" type="geojson" data={lineStringJson}>
+      <Source id="lineLayer" type="geojson" data={lineStringJson}>
         <Layer
           id="lineLayer"
           type="line"
@@ -163,6 +167,60 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
           paint={{
             "line-color": "rgba(3, 170, 238, 0.5)",
             "line-width": 5,
+          }}
+        />
+      </Source>
+    ),
+    []
+  );
+  const locationsLayer = useMemo(
+    () => (
+      // @ts-ignore
+      <Source id="locationsLayer" type="geojson" data={destinations}>
+        <Layer
+          id="locations-layer"
+          type="symbol"
+          layout={{
+            // "icon-image": "bus-15",
+            "text-field": ["get", "stopNumber"],
+            // "text-offset": [0, 1.25],
+          }}
+          paint={{
+            "text-color": "#000000",
+          }}
+        />
+      </Source>
+    ),
+    []
+  );
+  const momentsLayer = useMemo(
+    () => (
+      // @ts-ignore
+      <Source id="momentsLayer" type="geojson" data={momentsJson}>
+        <Layer
+          id="moments-layer"
+          type="symbol"
+          layout={{
+            // "icon-image": "bus-15",
+            "text-field": [
+              "format",
+              ["get", "name"],
+              { "font-scale": 0.8 },
+              "\n",
+              {},
+              ["get", "description"],
+              {
+                "font-scale": 0.6,
+                "text-font": [
+                  "literal",
+                  ["DIN Offc Pro Italic", "Arial Unicode MS Regular"],
+                ],
+              },
+            ],
+            // "text-offset": [0, 1.25],
+          }}
+          paint={{
+            "text-color": "#000000",
           }}
         />
       </Source>
@@ -213,6 +271,8 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
   return (
     <ReactMapGL {...viewport} onViewportChange={setViewport}>
       {lineLayer}
+      {locationsLayer}
+      {momentsLayer}
       {/* {transitions((style, feature) => (
         <Marker
           longitude={feature.geometry.coordinates[0]}

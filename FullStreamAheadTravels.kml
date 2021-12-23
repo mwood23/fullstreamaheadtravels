@@ -93276,12 +93276,31 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Grand Teton National Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.6817627,43.7904282,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Cool Finds</name>
       <Placemark>
+        <name>Dead Horse Lagoon</name>
+        <description>Off roading</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -112.0069954,34.7530544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Sugar Shack</name>
-        <description>Maple Syrup</description>
+        <description>Maple syrup</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93291,7 +93310,7 @@
       </Placemark>
       <Placemark>
         <name>Blackbird</name>
-        <description>Blackbird Pizza (9.2)</description>
+        <description>9.3</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93301,7 +93320,7 @@
       </Placemark>
       <Placemark>
         <name>Pisa Lisa</name>
-        <description>Pisa Lisa Pizza (9.2)</description>
+        <description>9.2</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93311,7 +93330,7 @@
       </Placemark>
       <Placemark>
         <name>The Honey House</name>
-        <description>Wyoming Honey</description>
+        <description>Wyoming honey</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93320,8 +93339,18 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Arcadian Moon</name>
+        <description>8.0</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7537316,39.0003838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Teton County Library</name>
-        <description>Super Fast Internet</description>
+        <description>Super fast internet</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93331,7 +93360,7 @@
       </Placemark>
       <Placemark>
         <name>Hockaday Orchards</name>
-        <description>Cherry Picking</description>
+        <description>Cherry picking</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93341,7 +93370,7 @@
       </Placemark>
       <Placemark>
         <name>Brecknock Orchard</name>
-        <description>Yellow Raspberries</description>
+        <description>Yellow raspberries</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93361,7 +93390,7 @@
       </Placemark>
       <Placemark>
         <name>Brooks Lake</name>
-        <description>Alpine Lake Drone</description>
+        <description>Alpine lake dronage</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93371,7 +93400,7 @@
       </Placemark>
       <Placemark>
         <name>Red Mountain Campground</name>
-        <description>Madison River Paddleboarding</description>
+        <description>Madison River biking and paddleboarding</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93381,7 +93410,7 @@
       </Placemark>
       <Placemark>
         <name>Lake McDonald</name>
-        <description>Best Sunset</description>
+        <description>Paddleboard sunset + hail storm</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93391,7 +93420,7 @@
       </Placemark>
       <Placemark>
         <name>Hidden Lake</name>
-        <description>Hidden Lake Hike</description>
+        <description>Random hike!</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93401,7 +93430,7 @@
       </Placemark>
       <Placemark>
         <name>Denver International Airport</name>
-        <description>Airstream at the Airport</description>
+        <description>Airstream adventures</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93410,8 +93439,18 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Witch Hole Pond</name>
+        <description>Bike ride!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -68.2435992,44.3994434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Dope Road Pic</name>
-        <description>Dope Road Pic</description>
+        <description>Wind river vibes</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93421,7 +93460,7 @@
       </Placemark>
       <Placemark>
         <name>Newport</name>
-        <description>Yacht Show</description>
+        <description>Yacht vibes</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93431,7 +93470,7 @@
       </Placemark>
       <Placemark>
         <name>Lake Solitude</name>
-        <description>Lake Solitude</description>
+        <description>Rainy autumn hike</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93441,7 +93480,7 @@
       </Placemark>
       <Placemark>
         <name>Boynton Canyon Trail</name>
-        <description>Boynton Canyon Trail</description>
+        <description>Nature walks</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93461,7 +93500,7 @@
       </Placemark>
       <Placemark>
         <name>Keystone</name>
-        <description>Second Bike!</description>
+        <description>Second bike!</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93481,7 +93520,7 @@
       </Placemark>
       <Placemark>
         <name>Bennington Cinemas</name>
-        <description>Movie Night</description>
+        <description>Movie night</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93491,7 +93530,7 @@
       </Placemark>
       <Placemark>
         <name>Glacier Campground</name>
-        <description>Tree Trouble</description>
+        <description>Tree trouble</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93501,7 +93540,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Brother Sebastian's Steakhouse]]></name>
-        <description>Monk Steaks</description>
+        <description>Monk Steaks 7.9</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93521,7 +93560,7 @@
       </Placemark>
       <Placemark>
         <name>Metro Coffee Company</name>
-        <description>Quirky Coffee</description>
+        <description>Quirky coffee</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93531,7 +93570,7 @@
       </Placemark>
       <Placemark>
         <name>RadioShack of Bozeman</name>
-        <description>Solving Internet</description>
+        <description>Solving the internet</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93551,7 +93590,7 @@
       </Placemark>
       <Placemark>
         <name>The Twisted Olive</name>
-        <description>The Twisted Olive</description>
+        <description>8.6</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93561,7 +93600,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Pickle & Ash]]></name>
-        <description><![CDATA[Pickle & Ash]]></description>
+        <description>8.7</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93571,7 +93610,7 @@
       </Placemark>
       <Placemark>
         <name>Matunuck Oyster Bar</name>
-        <description>Matunuck Oyster Bar</description>
+        <description>8.5</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93581,7 +93620,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Thurston's Lobster Pound]]></name>
-        <description>Lobster Rolls</description>
+        <description>8.3</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93590,7 +93629,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Harrah's Cherokee Casino Resort]]></name>
+        <name><![CDATA[Harrah's Cherokee Casino]]></name>
         <description>Casino Weekend</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
@@ -93601,7 +93640,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Pepp & Dolores]]></name>
-        <description><![CDATA[Pepp & Dolores (9.3)]]></description>
+        <description>9.3</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93621,7 +93660,7 @@
       </Placemark>
       <Placemark>
         <name>Dairy Queen</name>
-        <description>Good DQ</description>
+        <description>DQ redemption</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -93636,6 +93675,154 @@
         <Point>
           <coordinates>
             -112.0791631,33.4484874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westworld Campground</name>
+        <description>Fantastic fan mishap</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -111.8743039,33.6287872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pizzeria Caldera</name>
+        <description>4.4</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -110.7627187,43.4793758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Backroad</name>
+        <description>Off road adventures</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -110.0727705,43.747962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salmon Lake State Park</name>
+        <description>Kamikaze drone</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -113.3972,47.0915163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Silver Knot</name>
+        <description>Wine and truck jump pics</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -114.066214,47.505167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pizzería Virtu</name>
+        <description>8.3</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -111.9310333,33.4932262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gruner Brothers Brewing</name>
+        <description>7.7</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -106.3400802,42.8640708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>James River</name>
+        <description>Paddleboard floats</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -78.6897336,37.6985428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arrowhead Park</name>
+        <description>String lights + mosquitos = terror</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -95.5976589,41.436221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Vermillion State Recreation Area</name>
+        <description>What a sunset!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -97.1883982,43.5950082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Friday Night Rodeo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6179941,43.5265674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avalanche Trail</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -113.8137748,48.6764615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Going to the Sun Road</name>
+        <description>Mirror tucking!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -113.6545789,48.6787003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Faithful</name>
+        <description>Gotta see it!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -110.8281376,44.4604788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dairy Queen</name>
+        <description>DQ Failure</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -68.406377,44.530393,0
           </coordinates>
         </Point>
       </Placemark>

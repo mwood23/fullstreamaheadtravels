@@ -42,6 +42,7 @@ const writeLineString = (geoJson) => {
 const writeDestinations = (geoJson) => {
   const features = [];
 
+  // This is hacky but it doesn't pick up moments because it's after the line string in the KML file
   for (let index = 0; index < geoJson.features.length; index++) {
     const element = geoJson.features[index];
     if (element.geometry.type === "LineString") {
@@ -62,6 +63,31 @@ const writeDestinations = (geoJson) => {
   );
 };
 
+const writeMoments = (geoJson) => {
+  const features = [];
+
+  let take = false;
+  for (let index = 0; index < geoJson.features.length; index++) {
+    const element = geoJson.features[index];
+    if (element.geometry.type === "LineString") {
+      take = true;
+      continue;
+    }
+    if (take === false) continue;
+
+    if (element.properties["icon-color"] === "#0288d1") {
+      features.push(element);
+    }
+  }
+
+  const jsonToWrite = {
+    type: "FeatureCollection",
+    features,
+  };
+
+  fs.writeFileSync("./src/moments.json", JSON.stringify(jsonToWrite, null, 2));
+};
+
 const prepareKml = () => {
   const kml = new DOMParser().parseFromString(
     fs.readFileSync("FullStreamAheadTravels.kml", "utf8")
@@ -73,6 +99,7 @@ const prepareKml = () => {
 
   writeLineString(geoJson);
   writeDestinations(geoJson);
+  writeMoments(geoJson);
 
   fs.writeFileSync("./src/raw.json", JSON.stringify(geoJson, null, 2));
 };
