@@ -13,7 +13,8 @@ import travelBuddies from "./travel-buddies.png";
 import useMeasure from "react-use/esm/useMeasure";
 import useInterval from "react-use/esm/useInterval";
 import useThrottleFn from "react-use/esm/useThrottleFn";
-import { useSpring, useTransition, a, config } from "@react-spring/web";
+import useMedia from "react-use/esm/useMedia";
+import { useSpring, a } from "@react-spring/web";
 import {
   SPEED_COEFFICIENT,
   INITIAL_START_POINT,
@@ -34,7 +35,6 @@ const FEATURES = destinationsJson.features.map((f, i) => ({
     stopNumber: i + 1,
   },
 }));
-console.log(FEATURES.length, destinationsJson.features.length);
 
 const totalNumberOfCoordinatesOnPath =
   lineStringJson.features[0].geometry.coordinates.length;
@@ -44,7 +44,7 @@ const getRandomPhoto = () => {
     .toString()
     .padStart(4, "0");
 
-  return (document.getElementById(photoNumber) as HTMLImageElement).src;
+  return `https://res.cloudinary.com/friendzone/image/upload/c_fill,h_400,q_auto:good,w_700/fullstreamahead/${photoNumber}.jpg`;
 };
 
 const buildCards = () => {
@@ -105,34 +105,34 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
     animate();
   }, []);
 
-  useThrottleFn<void, number[]>(
-    (cachedIndex) => {
-      setActiveDestinations((prev) => {
-        const newDestinations = FEATURES.filter((feature: any) => {
-          return (
-            getDistance(
-              [
-                feature.geometry.coordinates[0],
-                feature.geometry.coordinates[1],
-              ],
-              [
-                lineStringJson.features[0].geometry.coordinates[cachedIndex][0],
-                lineStringJson.features[0].geometry.coordinates[cachedIndex][1],
-              ]
-            ) < 20000 // 5 miles
-          );
-        });
+  // useThrottleFn<void, number[]>(
+  //   (cachedIndex) => {
+  //     setActiveDestinations((prev) => {
+  //       const newDestinations = FEATURES.filter((feature: any) => {
+  //         return (
+  //           getDistance(
+  //             [
+  //               feature.geometry.coordinates[0],
+  //               feature.geometry.coordinates[1],
+  //             ],
+  //             [
+  //               lineStringJson.features[0].geometry.coordinates[cachedIndex][0],
+  //               lineStringJson.features[0].geometry.coordinates[cachedIndex][1],
+  //             ]
+  //           ) < 20000 // 5 miles
+  //         );
+  //       });
 
-        // Uniqby takes the first it finds so we make the array backwards and then reverse it so indexes will work
-        return uniqBy(
-          [...newDestinations, ...prev],
-          (x: any) => x.properties.name
-        ).reverse();
-      });
-    },
-    200,
-    [airstreamIndex]
-  );
+  //       // Uniqby takes the first it finds so we make the array backwards and then reverse it so indexes will work
+  //       return uniqBy(
+  //         [...newDestinations, ...prev],
+  //         (x: any) => x.properties.name
+  //       ).reverse();
+  //     });
+  //   },
+  //   200,
+  //   [airstreamIndex]
+  // );
 
   // useThrottleFn<void, number[]>(
   //   (cachedIndex) => {
@@ -202,18 +202,18 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
   //   [activeDestinations]
   // );
 
-  const transitions = useTransition(activeDestinations, {
-    from: { opacity: 0, transform: `scale(0)` },
-    enter: { opacity: 1, transform: `scale(1)` },
-    leave: { opacity: 0, transform: `scale(0)` },
-    delay: 200,
-    config: config.wobbly,
-  });
+  // const transitions = useTransition(activeDestinations, {
+  //   from: { opacity: 0, transform: `scale(0)` },
+  //   enter: { opacity: 1, transform: `scale(1)` },
+  //   leave: { opacity: 0, transform: `scale(0)` },
+  //   delay: 200,
+  //   config: config.wobbly,
+  // });
 
   return (
     <ReactMapGL {...viewport} onViewportChange={setViewport}>
       {lineLayer}
-      {transitions((style, feature) => (
+      {/* {transitions((style, feature) => (
         <Marker
           longitude={feature.geometry.coordinates[0]}
           latitude={feature.geometry.coordinates[1]}
@@ -233,7 +233,7 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
             {feature.properties.stopNumber}
           </a.div>
         </Marker>
-      ))}
+      ))} */}
 
       <Marker
         longitude={
@@ -280,7 +280,6 @@ const Card: FC<{ imageFront: string; imageBack: string; flipped: boolean }> = ({
     transform: `perspective(600px) rotateY(${flipped ? -180 : 0}deg)`,
     config: { mass: 5, tension: 500, friction: 80 },
   });
-
   return (
     <div className={"card"}>
       <a.div
@@ -307,11 +306,17 @@ const Card: FC<{ imageFront: string; imageBack: string; flipped: boolean }> = ({
 function App() {
   const [ref, { width, height }] = useMeasure();
   const [cards, setCards] = useState(buildCards());
+  const isMobile = useMedia("(max-width: 1200px)");
 
   useInterval(() => {
     const indexesToChange = new Set<number>();
-    for (let index = 0; index < FLIP_NUMBER; index++) {
-      indexesToChange.add(randomIntFromInterval(0, TOTAL_CARDS - 1));
+
+    if (isMobile) {
+      indexesToChange.add(0);
+    } else {
+      for (let index = 0; index < FLIP_NUMBER; index++) {
+        indexesToChange.add(randomIntFromInterval(0, TOTAL_CARDS - 1));
+      }
     }
 
     setCards((oldCards) => {

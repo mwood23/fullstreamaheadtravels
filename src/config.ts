@@ -9,4 +9,4 @@ export const FLIP_NUMBER = 3;
 // Number of cards, DO NOT CHANGE!
 export const TOTAL_CARDS = 12;
 // Total number of photos. This is hard coded based off of /public/static
-export const TOTAL_PHOTOS = 162;
+export const TOTAL_PHOTOS = 156;

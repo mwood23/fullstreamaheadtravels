@@ -12,9 +12,11 @@ function imageLoaded(imageNumber: number, alt = ""): Promise<HTMLImageElement> {
   const photoName = getPhotoName(imageNumber);
   return new Promise(function (resolve) {
     const image = document.createElement("img");
-
     image.setAttribute("alt", alt);
-    image.setAttribute("src", `/static/${photoName}.jpg`);
+    image.setAttribute(
+      "src",
+      `https://res.cloudinary.com/friendzone/image/upload/c_fill,h_400,q_auto:good,w_700/fullstreamahead/${photoName}.jpg`
+    );
     image.setAttribute("id", photoName);
     image.style.display = "none";
 
@@ -25,6 +27,9 @@ function imageLoaded(imageNumber: number, alt = ""): Promise<HTMLImageElement> {
 }
 
 const prepare = async () => {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("preload") !== "true") return;
+
   const imagePromises = [];
 
   for (let index = 0; index <= TOTAL_PHOTOS; index++) {
@@ -37,7 +42,7 @@ const prepare = async () => {
     document.body.appendChild(r);
   });
 
-  console.log("all images loaded");
+  console.log("All images preloaded");
 };
 
 prepare().then(() => {
