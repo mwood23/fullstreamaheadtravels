@@ -71,15 +71,16 @@ function randomIntFromInterval(min: number, max: number) {
 }
 
 const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
+  const isMobile = useMedia("(max-width: 1200px)");
   const [activeDestinations, setActiveDestinations] = useState<any[]>([]);
   const [viewport, setViewport] = useState<InteractiveMapProps>({
     longitude: -95.7129,
     latitude: 37.0902,
-    zoom: 5,
+    zoom: isMobile ? 3 : 5,
     mapboxApiAccessToken:
       "pk.eyJ1IjoibWFyY3Vzd29vZDIzIiwiYSI6ImNqNWVqdzZzOTA1MzAzM21uejB1OHd6NGIifQ.B3sfFWNRf4mRXKcIAsxwFA",
     mapOptions: {
-      style: "mapbox://styles/marcuswood23/ckx8ekzvx9jmg16ulipafkt2x",
+      style: "mapbox://styles/marcuswood23/ckxjdu7ds1prq14nohhqdrkfb",
     },
     // transitionInterpolator: new FlyToInterpolator(),
   });

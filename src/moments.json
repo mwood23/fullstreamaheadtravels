@@ -1640,7 +1640,7 @@
           32,
           64
         ],
-        "icon": "viewpoint-15",
+        "icon": "campsite-15",
         "label-scale": 0
       }
     },
@@ -1670,7 +1670,7 @@
           32,
           64
         ],
-        "icon": "attraction-15",
+        "icon": "campsite-15",
         "label-scale": 0
       }
     },
@@ -2586,6 +2586,1318 @@
           64
         ],
         "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.915708,
+          38.4144886,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Joe Huber's Family Farm",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "3.3",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9499944,
+          43.8966963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Driving Day",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Doodle catch up",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "viewpoint-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2523205,
+          43.3532281,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rail Trail",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Super long bike ride",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "bicycle-share-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0476639,
+          43.1733056,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zoey's Deli",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.4",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2118759,
+          42.9122772,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Publyk House",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "5.6",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.324511,
+          36.9223413,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mickey G's Bistro",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "7.8",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7149232,
+          44.3861681,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Days of '76 Campground",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.219492,
+          44.11023,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lowe's Home Improvement",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Rubber hammer vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "grocery-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.222414,
+          44.097368,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Laundry World",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Stay away",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "laundry-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7625674,
+          43.4804859,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cowboy Coffee Co.",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Internets",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "cafe-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6378038,
+          43.5345519,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dubois Laundry",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Good vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "laundry-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6310076,
+          43.5338206,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Perch Coffee House",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Meeting days",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "cafe-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3363717,
+          48.4112585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abruzzo Italian Kitchen",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.1",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3370132,
+          48.4113731,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Montana Coffee Traders",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Meetingssss",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "cafe-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1829851,
+          48.3734377,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Odd Fellows Coffee House",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "More meetingss",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "cafe-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.181542,
+          48.3748689,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City Cleaners LLC",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Vibes",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "laundry-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3326184,
+          39.6993742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "El Rancho Brewing Company",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.4",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1860821,
+          39.7796092,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New Terrain Brewing Company",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Drinks with friends",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4314375,
+          43.4100824,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Channel Trail Golf Course",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Golf!",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3475889,
+          43.40475,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pekadill's",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "7.7",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4180643,
+          37.2199873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lane Stadium",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "VT football",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4576034,
+          37.5649915,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hardywood Park Craft Brewery",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Weddinggg",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3062344,
+          44.3572776,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abel's Lobster",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.9",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2074064,
+          44.3912573,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Bella Vita",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.6",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.647569,
+          35.1978623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fire On the Mountain",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Glass blowing",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5327395,
+          43.2111559,
+          0
+        ]
+      },
+      "properties": {
+        "name": "L.L.Bean",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Shopping binge",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.608149,
+          36.500402,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kazoku Sushi and Bar",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "7.9",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.021696,
+          36.9066068,
+          0
+        ]
+      },
+      "properties": {
+        "name": "First Landing State Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2928481,
+          36.8565145,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chrysler Museum of Art",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Weddingg",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9113306,
+          40.0942664,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Honey Brook",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "Wedding",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0765571,
+          34.7728885,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fireside RV Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0585532,
+          35.5172634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stonebridge RV Resort",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0459466,
+          35.5185634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frankie's Italian Trattoria",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.2",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.605477,
+          35.5577498,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Asheville Bear Creek RV Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5520103,
+          35.5947069,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rhubarb",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.4",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7741288,
+          37.9584772,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Colton's Steak House & Grill",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "6.6",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3074958,
+          35.9493643,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Heyburn Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9587071,
+          36.1468704,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mother Road Market",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.0",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3172788,
+          33.864488,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake Pleasant Regional Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.027581,
+          34.749574,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pizzeria Bocce",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "8.4",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "restaurant-pizza-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0215606,
+          34.7537237,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dead Horse Ranch State Park",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "campsite-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8153836,
+          34.8617335,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Local Juicery",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "MYLK",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "star-stroked-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.412288,
+          33.638331,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Babbo Italian Eatery",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "5.2",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9273466,
+          33.4933383,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gelato Cimmino",
+        "styleUrl": "#icon-1899-0288D1",
+        "styleHash": "2f020686",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-normal",
+          "highlight": "#icon-1899-0288D1-highlight"
+        },
+        "description": "7.7",
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "alcohol-shop-15",
         "label-scale": 0
       }
     }

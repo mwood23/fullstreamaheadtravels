@@ -131,7 +131,7 @@ const writeMoments = (geoJson) => {
 
           default:
             throw new Error(
-              `Missing icon abbreviation for ${iconAbbreviation}`
+              `Missing icon abbreviation for ${iconAbbreviation} (${element.properties.name})`
             );
             break;
         }
