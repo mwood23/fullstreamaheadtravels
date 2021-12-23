@@ -76,7 +76,73 @@ const writeMoments = (geoJson) => {
     if (take === false) continue;
 
     if (element.properties["icon-color"] === "#0288d1") {
-      features.push(element);
+      if (element.properties.description) {
+        const [iconAbbreviation, description] =
+          element.properties.description.split(",");
+        let icon = "";
+
+        switch (iconAbbreviation) {
+          case "pizza":
+            icon = "restaurant-pizza-15";
+            break;
+          case "nationalPark":
+            icon = "mountain-15";
+            break;
+          case "coffee":
+            icon = "cafe-15";
+            break;
+          case "laundry":
+            icon = "laundry-15";
+            break;
+          case "moment":
+          case "hike":
+            icon = "viewpoint-15";
+            break;
+          case "attraction":
+            icon = "stadium-15";
+            break;
+          case "gas":
+            icon = "fuel-15";
+            break;
+          case "photo":
+            icon = "attraction-15";
+            break;
+          case "food":
+            icon = "alcohol-shop-15";
+            break;
+          case "casino":
+            icon = "casino-15";
+            break;
+          case "store":
+            icon = "grocery-15";
+            break;
+          case "library":
+            icon = "library-15";
+            break;
+          case "campsite":
+            icon = "campsite-15";
+            break;
+          case "bike":
+            icon = "bicycle-share-15";
+            break;
+          case "special":
+            icon = "star-stroked-15";
+            break;
+
+          default:
+            throw new Error(
+              `Missing icon abbreviation for ${iconAbbreviation}`
+            );
+            break;
+        }
+
+        features.push({
+          ...element,
+          properties: { ...element.properties, description, icon },
+        });
+      } else {
+        features.push(element);
+      }
     }
   }
 

@@ -205,7 +205,10 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
             "text-field": [
               "format",
               ["get", "name"],
-              { "font-scale": 0.8 },
+              {
+                "font-scale": 0.8,
+                "text-font": ["literal", ["Overpass Black"]],
+              },
               "\n",
               {},
               ["get", "description"],
@@ -213,14 +216,21 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
                 "font-scale": 0.6,
                 "text-font": [
                   "literal",
-                  ["DIN Offc Pro Italic", "Arial Unicode MS Regular"],
+                  [
+                    "Asap SemiBold Italic",
+                    "DIN Offc Pro Italic",
+                    "Arial Unicode MS Regular",
+                  ],
                 ],
               },
             ],
-            // "text-offset": [0, 1.25],
+            "icon-image": ["get", "icon"],
+            "text-offset": [0, 1.1],
           }}
           paint={{
-            "text-color": "#000000",
+            "text-color": "#000",
+            "text-halo-width": 1,
+            "text-halo-color": "#fff",
           }}
         />
       </Source>
@@ -271,7 +281,7 @@ const Map: FC<{ width: number; height: number }> = ({ width, height }) => {
   return (
     <ReactMapGL {...viewport} onViewportChange={setViewport}>
       {lineLayer}
-      {locationsLayer}
+      {/* {locationsLayer} */}
       {momentsLayer}
       {/* {transitions((style, feature) => (
         <Marker
